@@ -49,6 +49,10 @@
 
 <a name="use"></a>
 ### 开始使用
+下载依赖包
+```
+npm install
+```
 生成开发环境
 ```
 npm start
