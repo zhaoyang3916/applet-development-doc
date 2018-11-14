@@ -27,6 +27,7 @@
     |--api
     |--components
     |--pages
+    |--routers
     |--utils
     |--app.json
     |--App.vue
@@ -42,10 +43,10 @@
 + `components`存放公共组件
 + `pages`存放对应的业务页面
 + `utils`存放公共配置
++ `rotuers`路由分包 配置
 + `app.json`小程序配置文件
 + `config.js`请求配置文件
 + `main.js` `App.vue`主文件入口
-+ `pages.js`页面路由配置
 + `static`用于存放静态资源
 + `images`存放图片
 
